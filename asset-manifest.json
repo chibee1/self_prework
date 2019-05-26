@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/self_prework/public/static/css/main.917f7eb9.chunk.css",
-    "main.js": "/self_prework/public/static/js/main.150b48b3.chunk.js",
-    "main.js.map": "/self_prework/public/static/js/main.150b48b3.chunk.js.map",
-    "runtime~main.js": "/self_prework/public/static/js/runtime~main.07de33da.js",
-    "runtime~main.js.map": "/self_prework/public/static/js/runtime~main.07de33da.js.map",
-    "static/js/2.d6a534e5.chunk.js": "/self_prework/public/static/js/2.d6a534e5.chunk.js",
-    "static/js/2.d6a534e5.chunk.js.map": "/self_prework/public/static/js/2.d6a534e5.chunk.js.map",
-    "index.html": "/self_prework/public/index.html",
-    "precache-manifest.d30e850a25da4dd3190f81061cec78b4.js": "/self_prework/public/precache-manifest.d30e850a25da4dd3190f81061cec78b4.js",
-    "service-worker.js": "/self_prework/public/service-worker.js",
-    "static/css/main.917f7eb9.chunk.css.map": "/self_prework/public/static/css/main.917f7eb9.chunk.css.map",
-    "static/media/logo.svg": "/self_prework/public/static/media/logo.5d5d9eef.svg"
+    "main.css": "/self_prework/static/css/main.917f7eb9.chunk.css",
+    "main.js": "/self_prework/static/js/main.c25f9f11.chunk.js",
+    "main.js.map": "/self_prework/static/js/main.c25f9f11.chunk.js.map",
+    "runtime~main.js": "/self_prework/static/js/runtime~main.c61e9251.js",
+    "runtime~main.js.map": "/self_prework/static/js/runtime~main.c61e9251.js.map",
+    "static/js/2.d6a534e5.chunk.js": "/self_prework/static/js/2.d6a534e5.chunk.js",
+    "static/js/2.d6a534e5.chunk.js.map": "/self_prework/static/js/2.d6a534e5.chunk.js.map",
+    "index.html": "/self_prework/index.html",
+    "precache-manifest.1f4630c7032a9cc8a5f23094608cf600.js": "/self_prework/precache-manifest.1f4630c7032a9cc8a5f23094608cf600.js",
+    "service-worker.js": "/self_prework/service-worker.js",
+    "static/css/main.917f7eb9.chunk.css.map": "/self_prework/static/css/main.917f7eb9.chunk.css.map",
+    "static/media/logo.svg": "/self_prework/static/media/logo.5d5d9eef.svg"
   }
 }
